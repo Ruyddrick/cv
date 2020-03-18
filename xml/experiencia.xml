@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../templates/experiencia.xsl"?>
 
-<seccion name="experiencia">
+<seccion name="Experiencia">
     <empresa name="IBERO-ROLLING S.L.">
         <puesto>Informático</puesto>
         <fecha>Septiembre 2019-Febrero 2020</fecha>

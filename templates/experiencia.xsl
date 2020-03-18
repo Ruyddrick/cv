@@ -9,6 +9,7 @@
 				<link rel="stylesheet" type="text/css" href="../css/stylo.css"/>
             </head>
             <body>
+                <h1>>Probando</h1>
             </body>
         </html>
     </xsl:template>
