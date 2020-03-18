@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../templates/experiencia.xsl"?>
+
+<seccion name="experiencia">
+    <empresa name="IBERO-ROLLING S.L.">
+        <puesto>Informático</puesto>
+        <fecha>Septiembre 2019-Febrero 2020</fecha>
+        <funcion>(Gestión y desarrollo de la página Web)</funcion>
+    </empresa>
+    <empresa name="TRANSCOM WORLDWIDE S.L.">
+        <puesto>Teleoperador</puesto>
+        <fecha>Julio 2017-Abril 2018</fecha>
+        <funcion>(Fidelización saliente Autónomos y Micropymes ORANGE)</funcion>
+    </empresa>
+    <empresa name="AITATEL S.L.">
+        <puesto>Teleoperador</puesto>
+        <fecha>Diciembre 2015-Septiembre 2016</fecha>
+        <funcion>(Campaña decesos GENERALI Seguros)</funcion>	
+    </empresa>
+    <empresa name="GESTCOM">
+        <puesto>Comercial Freelance</puesto>
+        <fecha>Agosto 2014</fecha>
+        <funcion>(Captación de clientes para Gas Natural-Fenosa)</funcion>
+    </empresa>
+    <empresa name="MERCADONA S.A.">
+        <puesto>Cajero reponedor</puesto>
+        <fecha>Noviembre-Diciembre 2010</fecha>
+    </empresa>
+    <empresa name="ATENTO ESPAÑA S.A.">
+        <puesto>Teleoperador</puesto>
+        <fecha>Enero-Febrero 2010</fecha>
+        <funcion>(Campaña VDSL para TELEFONICA S.A.)</funcion>
+    </empresa>
+    <empresa name="ATENTO ESPAÑA S.A.">                 
+        <puesto>Teleoperador</puesto>
+        <fecha>Octubre-Noviembre 2009</fecha>
+        <funcion>(Campaña VDSL para TELEFONICA S.A.)</funcion>
+    </empresa>
+    <empresa name="E.S. PETROBUR S.L. ">                          
+        <puesto>Expendedor/Vendedor</puesto>
+        <fecha>Enero-Septiembre 2009</fecha>
+    </empresa>
+    <empresa name="Distribuciones EMILIO CONDE GARCIA (BIMBO S.A.)">
+        <puesto>Autoventa</puesto>
+        <fecha>Septiembre 2008</fecha>
+    </empresa>
+    <empresa name="E.S. PETROBUR S.L. ">
+        <puesto>Expendedor/Vendedor</puesto>
+        <fecha>Julio-Agosto 2007 y 2008</fecha>
+    </empresa>
+    <empresa name="LANDA PALACE a través de RANSTAD EMPLEO S.A.  ">
+        <puesto>Conductor </puesto>
+        <fecha>Agosto 2006</fecha>
+    </empresa>
+    <empresa name="Jose Javier Aguarón Rodríguez a través de RANSTAD EMPLEO S.A.">
+        <puesto>Conductor/Repartidor</puesto>
+        <fecha>Noviembre-Diciembre 2005</fecha>
+    </empresa>
+    <empresa name="TECZONE ESPAÑOLA a través de RANSTAD EMPLEO S.A. ">     
+        <puesto>Peón Especialista</puesto>
+        <fecha>Julio-Agosto 2005</fecha>
+    </empresa>
+</seccion>
