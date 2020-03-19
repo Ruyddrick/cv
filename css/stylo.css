@@ -1,25 +1,5 @@
-#cabecera h1 {
-	font-family: 'Permanent Marker', cursive;
+body {
+	background-image: url("../img/construccion.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
-h1 {
-    color: blue;
-    text-align: center;
-}
-nav ul li{
-	font-family: 'Bangers', cursive;
-	display: inline;
-	margin: 2% 5%;
-}
-a {
-	font-size: 30px;
-	color: navy;
-	text-decoration: none;
-	text-shadow: 0px 0px 20px red;
-	padding: .9%;
-	border-radius: 35px 35px 0 0;
-}
-.active {
-	background-color: purple;
-	color: white;
-}
-
